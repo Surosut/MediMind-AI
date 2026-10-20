@@ -173,7 +173,7 @@ MediMind-AI/
 | **Surosut Senior** | Team Lead & Developer |
 | **Priyanshu Kumar** | Developer |
 | **Tavish Bedi** | Developer |
-| **Shourya Tripathi** | Developer |
+| **Shaurya Tripathi** | Developer |
 
 **Supervisor:** Prof. Kanishk Tolani (Assistant Professor)  
 **Department:** Computer Science & Engineering  
